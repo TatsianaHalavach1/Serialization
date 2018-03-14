@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\bin\Debug\SimleSerialization.exe.config
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\bin\Debug\SimleSerialization.exe
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\bin\Debug\SimleSerialization.pdb
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\obj\Debug\SimleSerialization.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\obj\Debug\SimleSerialization.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\obj\Debug\SimleSerialization.exe
+C:\Users\user\source\repos\SimleSerialization\SimleSerialization\obj\Debug\SimleSerialization.pdb
